@@ -1,0 +1,5 @@
+Xerces for Android. XML Parser and Validator ready to run on Android Dalvik JVM (tested on API 17, platform 4.2). This is a self-contained library from the Apache Xerces project (http://xerces.apache.org) which have all dependencies satisfied to run on Android. Apache Xerces is a powerfull tool to parse XML and validate XML schemas. Xerces for Android is based on Apache Xerces Java distribution version 2.11.0.
+
+This project is licensed under the Apache 2.0 License. Software is server on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied, including, without limitation, any warranties or conditions of TITLE, NON-INFRINGEMENT, MERCHANTABILITY, or FITNESS FOR A PARTICULAR PURPOSE.
+
+This contribution was possible due to the Information Security team from Deloitte Uruguay (@DeloitteUYSeg). Special thanks to Mauro Flores (mauflores@deloitte.com), Martín Balao (mbalao@deloitte.com) and Fabrizio Faggiani (ffaggiani@deloitte.com).
